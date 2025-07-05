@@ -1,0 +1,10 @@
+[
+  { "imageSrc": "/assets/skills/html.png", "title": "HTML" },
+  { "imageSrc": "/assets/skills/css.png", "title": "CSS" },
+  { "imageSrc": "/assets/skills/javascript.png", "title": "Javascript" },
+  { "imageSrc": "/assets/skills/react.png", "title": "React(basics)" },
+  { "imageSrc": "/assets/skills/java.png", "title": "Java" },
+  { "imageSrc": "/assets/skills/sql.png", "title": "SQL" },
+  { "imageSrc": "/assets/skills/spring.png", "title": "Spring" },
+  { "imageSrc": "/assets/skills/springboot.png", "title": "Springboot" }
+]

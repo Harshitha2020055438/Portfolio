@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Fruit Application",
+    "imageSrc": "/assets/projects/fruit.jpg",
+    "description": "Created a Fruit Store Web Application  using spring boot(Rest API) and react.js",
+    "skills": ["React", "spring boot"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Protfolio",
+   "imageSrc": "/assets/projects/portfolio.jpg",
+    "description": "Built a personal portfolio using React and JSON to dynamically display skills, projects, and contact info in a responsive UI.",
+    "skills": ["React",  "JSON"],
+    "source": "https://www.github.com"
+  }
+]
